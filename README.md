@@ -51,7 +51,6 @@
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 [![LeetCode][leetcode-shield]][leetcode-url]
-[![Hackerrank][hackerrank-shield]][hackerrank-url]
 [![GFG][gfg-shield]][gfg-url]
 <br>
 
