@@ -12,12 +12,12 @@
 <!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)--> 
 ![C++](https://img.shields.io/badge/C++-5C2D91?style=for-the-badge&logo=c++&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-<!-- ### <img src="https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif" width = "40> Language Stats
+<!-- ### <img src="https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif" width = "40> Language Stats-->
  <div align="center">
 
-  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN)](https://github.com/AJTITAN/github-readme-stats)</a>
+ <!-- <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN)](https://github.com/AJTITAN/github-readme-stats)</a>-->
 
-</div> -->
+</div>
 ### <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> Streak stats
 <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockysingh2003&layout=compact&show_icon=true&theme=algolia" alt="rockysingh2003-langs"/>-->
  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=TangoBeee&layout=compact&show_icon=true&theme=algolia" alt="TangoBee-stats"/>
