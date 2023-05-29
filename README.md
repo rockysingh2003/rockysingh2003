@@ -19,11 +19,11 @@
 </div>
 <!-- <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> Streak stats -->
 <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockysingh2003&layout=compact&show_icon=true&theme=algolia" alt="rockysingh2003-langs"/>-->
-<div align="center">
+<!-- <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=TangoBeee&layout=compact&show_icon=true&theme=algolia" alt="TangoBee-stats"/>
 </div>
 <div align="center">
-
+ -->
   <a>![Github streak][github-streak]</a>
 
 </div>
