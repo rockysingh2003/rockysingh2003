@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sajal Prajapati(RockySingh) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">"Passionate software engineer excelling in MERN full-stack development and blockchain technology. Committed to mastering AI/ML, and dedicated to becoming a proficient Data Structures and Algorithms (DSA) practitioner. A lifelong learner driven by innovation and problem-solving."</h3>
+<h3 align="center">"Passionate software engineer excelling in MERN full-stack development . Committed to mastering AI/ML, and dedicated to becoming a proficient Data Structures and Algorithms (DSA) practitioner. A lifelong learner driven by innovation and problem-solving."</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer+And+CPP+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
@@ -11,10 +11,10 @@
 
 ✨ Passionate about learning new technologies<br>
 <br>
-🌱 Right Now! I'm practitioner of **MERN Stack, Blockchain mastery ,AI/ML and DSA ** <br>
+🌱 Right Now! I'm practitioner of **MERN Stack  and DSA ** <br>
 <br>
 💬 Feel free to inquire about : <br>
-    **    React, GSAP, Next.JS, MongoDB, Express.JS, Node.JS, Smart-Contracts, Decentralized Applications (Dapps), Blockchain Wallet, DSA    **
+    **    React, GSAP, Next.JS, MongoDB, Express.JS, Node.JS, DSA    **
 <br>
 <br>
 ⚡  Interesting Fact "Did you know? I write code that is so clean, it makes my coffee jealous – it can't even espresso how neat it is! ☕️😄"
